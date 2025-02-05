@@ -1,0 +1,4 @@
+:root{
+    --font-dm-sans: "DM sans", sans-serif;
+    font-family: var(--font-dm-sans);
+}
